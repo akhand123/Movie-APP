@@ -1,0 +1,5 @@
+node_modules/**/*
+.expo/**/*
+yarn.lock
+app/config.json
+.DS_Store
