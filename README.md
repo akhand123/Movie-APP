@@ -4,7 +4,7 @@ Tools used in these projects are redux, navigation by react navigation and api r
 
 All movies and data are downloaded using TMDB.org API.
 
-#Inside the movMovie-APP folder run the following:
+#Inside the Movie-APP folder run the following:
 
 npm install
 
