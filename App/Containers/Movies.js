@@ -6,7 +6,6 @@ import ModalDropdown from 'react-native-modal-dropdown';
 import { moviesFetch, clearState } from '../Actions';
 import Poster from '../Components/Poster';
 import Header from '../Components/Header';
-// Styles
 import styles from '../Styles/MoviesStyle';
 let page = 2;
 
@@ -50,9 +49,6 @@ class Movies extends Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    // nextProps are the next set of props that this component
-    // will be rendered with
-    // this.props is still the old set of props
     this.createDataSource(nextProps);
   }
 

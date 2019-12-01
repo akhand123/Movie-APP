@@ -3,7 +3,6 @@ import { ImageBackground, View, Platform, Linking } from 'react-native';
 import { Text } from 'native-base';
 import EntypoIcon from 'react-native-vector-icons/dist/Entypo';
 import YouTube, { YouTubeStandaloneIOS, YouTubeStandaloneAndroid } from 'react-native-youtube';
-// Styles
 import styles from '../Styles/DetailsScreenStyle';
 
 export default class YoutubeComponent extends Component {

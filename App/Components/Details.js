@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { ImageBackground, View, ScrollView,} from 'react-native';
 import { Text } from 'native-base';
-// Styles
 import styles from '../Styles/DetailsScreenStyle';
 
 export default class Details extends Component {

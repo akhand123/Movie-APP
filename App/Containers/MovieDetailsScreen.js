@@ -7,8 +7,6 @@ import { trailerFetch, moviesDetails } from '../Actions';
 import Header from '../Components/Header';
 import Details from '../Components/Details';
 import YoutubeComponent from '../Components/YoutubeComponent';
-
-// Styles
 import styles from '../Styles/DetailsScreenStyle';
 
 class MovieDetailsScreen extends Component {

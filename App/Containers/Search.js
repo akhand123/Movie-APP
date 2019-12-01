@@ -4,7 +4,6 @@ import { AlertMessage, List, ListItem, Text, View, Container, Header, Title, But
 import EntypoIcon from 'react-native-vector-icons/dist/Entypo';
 import { connect } from 'react-redux';
 import { searchAll, clearAllState } from '../Actions';
-// Styles
 import searchstyles from '../Styles/SearchBarStyles';
 import styles from '../Styles/MoviesStyle';
 const POSTER_URL = 'https://image.tmdb.org/t/p/w300';
@@ -26,9 +25,6 @@ class Search extends Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    // nextProps are the next set of props that this component
-    // will be rendered with
-    // this.props is still the old set of props
     this.createDataSource(nextProps);
   }
 
