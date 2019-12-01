@@ -1,0 +1,1114 @@
+[
+    {
+        "outputFile": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 120,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 120,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 107,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 107,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 122,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 122,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 103,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 103,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endColumn": 112,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 112,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 87,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 87,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 111,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 111,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 120,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 120,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 82,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 82,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 111,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 111,
+                        "endOffset": 1360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 112,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1365,
+                        "endColumn": 112,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 99,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 99,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 113,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 113,
+                        "endOffset": 1687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 104,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1692,
+                        "endColumn": 104,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 105,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 105,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 120,
+                    "endOffset": 1794
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1903,
+                        "endColumn": 120,
+                        "endOffset": 2019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1799,
+                    "endColumn": 102,
+                    "endOffset": 1897
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2024,
+                        "endColumn": 102,
+                        "endOffset": 2122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1902,
+                    "endColumn": 109,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 109,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 114,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 114,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endColumn": 113,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 113,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 108,
+                    "endOffset": 2345
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 108,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2350,
+                    "endColumn": 132,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 132,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endColumn": 101,
+                    "endOffset": 2580
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 101,
+                        "endOffset": 960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2585,
+                    "endColumn": 95,
+                    "endOffset": 2676
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 95,
+                        "endOffset": 1056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2681,
+                    "endColumn": 124,
+                    "endOffset": 2801
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 124,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2806,
+                    "endColumn": 106,
+                    "endOffset": 2908
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 106,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2913,
+                    "endColumn": 85,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 85,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 97,
+                    "endOffset": 3092
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1379,
+                        "endColumn": 97,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3097,
+                    "endColumn": 100,
+                    "endOffset": 3193
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/Movie-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2127,
+                        "endColumn": 100,
+                        "endOffset": 2223
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 120,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 120,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 107,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 107,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 122,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 122,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 103,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 103,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endColumn": 112,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 112,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 87,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 87,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 111,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 111,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 120,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 120,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 82,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 82,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 111,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 111,
+                        "endOffset": 1360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 112,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1365,
+                        "endColumn": 112,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 99,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 99,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 113,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 113,
+                        "endOffset": 1687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 104,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1692,
+                        "endColumn": 104,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 105,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 105,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 120,
+                    "endOffset": 1794
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1903,
+                        "endColumn": 120,
+                        "endOffset": 2019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1799,
+                    "endColumn": 102,
+                    "endOffset": 1897
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2024,
+                        "endColumn": 102,
+                        "endOffset": 2122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1902,
+                    "endColumn": 109,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 109,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 114,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 114,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endColumn": 113,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 113,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 108,
+                    "endOffset": 2345
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 108,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2350,
+                    "endColumn": 132,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 132,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endColumn": 101,
+                    "endOffset": 2580
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 101,
+                        "endOffset": 960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2585,
+                    "endColumn": 95,
+                    "endOffset": 2676
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 95,
+                        "endOffset": 1056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2681,
+                    "endColumn": 124,
+                    "endOffset": 2801
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 124,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2806,
+                    "endColumn": 106,
+                    "endOffset": 2908
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 106,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2913,
+                    "endColumn": 85,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 85,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 97,
+                    "endOffset": 3092
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1379,
+                        "endColumn": 97,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3097,
+                    "endColumn": 100,
+                    "endOffset": 3193
+                },
+                "from": {
+                    "file": "/Users/bakhand/React/movie-assignment/react-native-Movie-TV-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2127,
+                        "endColumn": 100,
+                        "endOffset": 2223
+                    }
+                }
+            }
+        ]
+    }
+]
