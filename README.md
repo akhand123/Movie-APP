@@ -1,5 +1,5 @@
 # movie-app
 
-List View                  |  Detail View
+Home Page                  |  Detail Page
 :-------------------------:|:-------------------------:
 ![](./docs/list.png)        |  ![](./docs/preview.png)
