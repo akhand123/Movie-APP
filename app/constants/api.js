@@ -1,4 +1,3 @@
-import { TMDB_KEY } from '../config';
 
 export const API_KEY = "86e7a24d98adc4b5b41052a1cf6ee12a"; 
 export const POSTER = 'https://image.tmdb.org/t/p/w500';
